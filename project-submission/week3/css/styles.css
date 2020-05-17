@@ -43,6 +43,12 @@ body{
 	margin: 0px auto 0px auto;
 }
 
+#web-footer{
+	opacity: 20%;
+	margin-right: 12px;
+	margin-top: 200px;
+}
+
 @media(max-width: 767px){
 	.nav-brand h1{
 		margin-left: 15px;
